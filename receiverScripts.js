@@ -54,13 +54,9 @@ function addConnection(connection) {
             var videoPlayer = document.getElementById('videoPlayer');
             // 影片檔案的路徑
             var videos = [
-                'video_C/LD_2000.mp4',
                 'video_C/LD_500.mp4',
-                'video_C/LU_2000.mp4',
                 'video_C/LU_500.mp4',
-                'video_C/RD_2000.mp4',
                 'video_C/RD_500.mp4',
-                'video_C/RU_2000.mp4',
                 'video_C/RU_500.mp4'
             ];
             // 記錄當前播放的影片索引
